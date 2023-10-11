@@ -1,0 +1,5 @@
+KPMG VIRTUAL INTERNSHIP
+This repository includes solutions for the three distinct tasks required as part of the KPMG data analytics virtual internship offered through Forage
+TASK 1 : DATA QUALITY ASSESMENT  : Your task is to take a look at the following datasets provided by Sprocket Central Pty Ltd and identify all data quality issues. Once you've had a look at these datasets, draft an email to the client identifying all data quality issues. 
+TASK 2 : Create a PowerPoint presentation that outlines our strategy for identifying the ideal target customers from a pool of 1000 individuals for Sprocket Central Pty Ltd, using the provided dataset. This presentation will elucidate the three key phases of our approach: Data Exploration, Model Development, and Interpretation.
+TASK 3 : Develop a comprehensive dashboard for our upcoming client presentation, showcasing a concise data summary and the outcomes of our analysis. This dashboard will clearly outline the recommended target audience for Sprocket Central Pty Ltd among the 1000 new customer prospects. You may refer to tools and references for assistance in creating the dashboard.
